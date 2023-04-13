@@ -1,0 +1,26 @@
+{
+  "exampel.com": {
+    "domain": "example.com",
+    "subdomain": "www",
+    "url": "http://example.com",
+    "type": "phishing",
+    "description": "This is a phishing site.",
+    "category": "scam"
+  },
+  "v.ht": {
+    "domain": "v.ht",
+    "subdomain": "www",
+    "url": "http://v.ht/nyidpamobil",
+    "type": "phishing",
+    "description": "This redirects to a phishing site.",
+    "category": "BankID"
+  },
+  "wpenginepowered.com": {
+    "domain": "wpenginepowered.com",
+    "subdomain": "nysecured",
+    "url": "https://nysecured.wpenginepowered.com/bnkid/",
+    "type": "phishing",
+    "description": "This is a phishing site.",
+    "category": "BankID"
+  }
+}
